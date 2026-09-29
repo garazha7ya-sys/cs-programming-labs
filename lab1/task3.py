@@ -1,1 +1,6 @@
-print("Task 3 completed")
+a = float(input())
+b = float(input())
+S = a * b
+P = 2 * (a + b)
+print("Площадь:" , S)
+print("Периметр:" , P)
